@@ -13,6 +13,7 @@
 		29A3B79A2A2FAC02003472C8 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 29A3B7982A2FAC02003472C8 /* Main.storyboard */; };
 		29A3B79C2A2FAC03003472C8 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 29A3B79B2A2FAC03003472C8 /* Assets.xcassets */; };
 		29A3B79F2A2FAC03003472C8 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 29A3B79D2A2FAC03003472C8 /* LaunchScreen.storyboard */; };
+		29A3B7A72A2FB90A003472C8 /* OnboardingView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 29A3B7A62A2FB90A003472C8 /* OnboardingView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +25,7 @@
 		29A3B79B2A2FAC03003472C8 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		29A3B79E2A2FAC03003472C8 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		29A3B7A02A2FAC03003472C8 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		29A3B7A62A2FB90A003472C8 /* OnboardingView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = OnboardingView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -59,6 +61,7 @@
 				29A3B7922A2FAC02003472C8 /* AppDelegate.swift */,
 				29A3B7942A2FAC02003472C8 /* SceneDelegate.swift */,
 				29A3B7962A2FAC02003472C8 /* ViewController.swift */,
+				29A3B7A62A2FB90A003472C8 /* OnboardingView.swift */,
 				29A3B7982A2FAC02003472C8 /* Main.storyboard */,
 				29A3B79B2A2FAC03003472C8 /* Assets.xcassets */,
 				29A3B79D2A2FAC03003472C8 /* LaunchScreen.storyboard */,
@@ -139,6 +142,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				29A3B7972A2FAC02003472C8 /* ViewController.swift in Sources */,
+				29A3B7A72A2FB90A003472C8 /* OnboardingView.swift in Sources */,
 				29A3B7932A2FAC02003472C8 /* AppDelegate.swift in Sources */,
 				29A3B7952A2FAC02003472C8 /* SceneDelegate.swift in Sources */,
 			);
